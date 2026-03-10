@@ -1,0 +1,9 @@
+/* This only changes this particular animation duration */
+.animate__animated.animate__rubberBand {
+  --animate-duration: 10s;
+}
+
+/* Not working, something with the variable name */
+/* .animate__animated.animate__swing {
+  --animate-repeat: 3;
+} */
